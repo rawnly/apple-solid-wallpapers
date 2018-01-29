@@ -15,16 +15,16 @@ I love solid backgrounds, they looks minimal, but the default Apple's wallpapers
 ## Colors
 ![colorguide](https://user-images.githubusercontent.com/16429579/35515518-b5502dde-0509-11e8-9c0f-b1dc4307dbbf.png)
 
-- #1D1D1D: Dark Gray
-- #FFFFFF: White
-- #FF9501: Orange
-- #FF3A30: Red
-- #FFCD01: Yellow
-- #4AD963: Green
-- #58C9FA: Teal Blue
-- #0179FF: Blue
-- #5755D7: Purple
-- #FF2C53: Pink
+- **#1D1D1D:** Dark Gray
+- **#FFFFFF:** White
+- **#FF9501:** Orange
+- **#FF3A30:** Red
+- **#FFCD01:** Yellow
+- **#4AD963:** Green
+- **#58C9FA:** Teal Blue
+- **#0179FF:** Blue
+- **#5755D7:** Purple
+- **#FF2C53:** Pink
 
 ## How can i export them?
 Easy! Clone this repo and open the [project.sketch](project.sketch) file and export the artboard that you like. You can also download a zip from the [latest release][latest] with all the exports.
