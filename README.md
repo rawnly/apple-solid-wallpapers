@@ -39,12 +39,13 @@ This project is not affiliated with Apple Inc.
 
 
 --------
-
-Follow me on twitter: [@rawnlydev][twitter]
-Follow me on instagram: [@fede.vitale][instagram]
+<p align="center">
+	<a href="https://twitter.com/rawnlydev">Twitter</a> • <a href="https://instagram.com/fede.vitale">Instagram</a>  • <a href="https://github.com/rawnly">GitHub</a> 
+</p>
 
 
 [human-interface-guidelines]: https://developer.apple.com/ios/human-interface-guidelines/visual-design/color/
 [latest]: https://github.com/rawnly/apple-solid-wallpapers/releases/latest
 [twitter]: https://twitter.com/rawnlydev
 [instagram]: https://instagram.com/fede.vitale
+[github]: https://github.com/rawnly
