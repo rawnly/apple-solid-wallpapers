@@ -33,10 +33,9 @@ Easy! Clone this repo and open the [project.sketch](project.sketch) file and exp
 - **4k** : 3,840x2,160
 - **8k** : 7,680x4,320
 
-
-### Note
-This project is not affiliated with Apple Inc. 
-
+--------
+#### You migh also like
+- [vscode-icons](https://github.com/dhanishgajjar/vscode-icons) by [@dhanishgajjar](https://github.com/dhanishgajjar)
 
 --------
 <p align="center">
